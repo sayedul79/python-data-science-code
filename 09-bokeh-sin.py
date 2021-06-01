@@ -2,7 +2,7 @@
 """
 Created on Mon May 31 21:03:04 2021
 
-@author: Sayedul
+@author: bokeh
 """
 import numpy as np
 
